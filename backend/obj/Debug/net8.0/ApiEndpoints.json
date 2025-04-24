@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ThemeParksController",
+    "Method": "GetDestinations",
+    "RelativePath": "api/ThemeParks/destinations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
