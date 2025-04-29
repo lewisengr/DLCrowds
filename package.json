@@ -2,7 +2,8 @@
   "dependencies": {
     "@fancyapps/ui": "^5.0.36",
     "@panzoom/panzoom": "^4.6.0",
-    "@svgr/webpack": "^8.1.0"
+    "@svgr/webpack": "^8.1.0",
+    "react-router-dom": "^7.5.3"
   },
   "devDependencies": {
     "@svgr/rollup": "^8.1.0",

@@ -128,21 +128,6 @@ export default function CrowdMap() {
           <button onClick={() => panzoom?.reset()}>⟳</button>
         </div>
       </div>
-
-      <div style={{ marginTop: "2rem", padding: "1rem" }}>
-        <h2>🎢 Disneyland Attractions</h2>
-        {attractions.length > 0 ? (
-          <ul>
-            {attractions.map((a) => (
-              <li key={a.id}>
-                {a.name} — {a.status || "Unknown"}
-              </li>
-            ))}
-          </ul>
-        ) : (
-          <p>Loading attractions...</p>
-        )}
-      </div>
     </div>
   );
 }
