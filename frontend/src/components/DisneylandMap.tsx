@@ -7,11 +7,12 @@ import {
 import { AttractionLiveData, CrowdData } from "../types/CrowdData";
 import { rideImageOverlays } from "../rideOverlayConfigs";
 import { getFilterClassFromWaitTime } from "../utils/getFilterClass";
-import disneylandMap from "../assets/Map.png"; // Base map
-
+import disneylandMap from "../assets/Map.png"; // Base map image
 import Panzoom from "@panzoom/panzoom";
 import "@fancyapps/ui/dist/panzoom/panzoom.css";
 
+// This component is used to display the Disneyland map with ride wait times from the API
+// It also uses the Panzoom library to allow users to zoom in and out of the map
 export default function CrowdMap() {
   const containerRef = useRef<HTMLDivElement>(null);
   const [attractions, setAttractions] = useState<AttractionLiveData[]>([]);
@@ -21,9 +22,9 @@ export default function CrowdMap() {
   const [panzoom, setPanzoom] = useState<ReturnType<typeof Panzoom> | null>(
     null
   );
-
   const disneylandUUID = "7340550b-c14d-4def-80bb-acdb51d49a66";
 
+  // This useEffect is used to start the SignalR connection and subscribe to the crowd data
   useEffect(() => {
     startConnection();
     subscribeToCrowdData((data: Record<string, CrowdData>) => {
@@ -34,6 +35,9 @@ export default function CrowdMap() {
           newWaitTimes[rideId] = crowdData.waitTime;
         }
       });
+
+      // This line updates the wait times state with the new wait times received from the SignalR connection
+      // It uses the previous state to ensure that only the updated wait times are set
       setWaitTimes((prev) => ({ ...prev, ...newWaitTimes }));
     });
 
@@ -42,6 +46,7 @@ export default function CrowdMap() {
     };
   }, []);
 
+  // This useEffect is used to fetch the live data from the API and filter it to only include rides that are in the rideImageOverlays array
   useEffect(() => {
     fetch(`https://api.themeparks.wiki/v1/entity/${disneylandUUID}/live`)
       .then((res) => res.json())
@@ -67,6 +72,7 @@ export default function CrowdMap() {
       );
   }, []);
 
+  // This useEffect is used to initialize the Panzoom library and set up the zoom functionality for the map
   useEffect(() => {
     if (mapInnerRef.current) {
       const panzoomInstance = Panzoom(mapInnerRef.current, {
@@ -117,7 +123,6 @@ export default function CrowdMap() {
             </div>
           </div>
         </div>
-
         {/* Controls */}
         <div className="map-controls">
           <button onClick={() => panzoom?.zoomIn()}>+</button>
