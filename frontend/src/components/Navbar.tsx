@@ -7,6 +7,10 @@ interface NavbarProps {
 
 export default function Navbar({ scrollContainerRef }: NavbarProps) {
   const [isShrunk, setIsShrunk] = useState(false);
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const toggleMobileMenu = () => {
+    setIsMobileMenuOpen((prev) => !prev);
+  };
 
   useEffect(() => {
     const container = scrollContainerRef.current;
@@ -29,7 +33,10 @@ export default function Navbar({ scrollContainerRef }: NavbarProps) {
         <div className="navbar-left">
           <h1>DLCrowds</h1>
         </div>
-        <div className="navbar-right">
+        <div className="navbar-toggle" onClick={toggleMobileMenu}>
+          ☰
+        </div>
+        <div className={`navbar-links ${isMobileMenuOpen ? "open" : ""}`}>
           <Link to="/">Map</Link>
           <Link to="/wait-times">Wait Times</Link>
           <Link to="/statistics">Statistics</Link>

@@ -161,6 +161,39 @@ body {
     font-size: 0.85rem;
     padding: 0.3rem 0.4rem;
   }
+
+  /* navbar */
+  .navbar-toggle {
+    display: block;
+  }
+
+  .navbar-right {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background: #1e1e1e;
+    width: 100%;
+    padding: 1rem;
+  }
+
+  .navbar-right.open {
+    padding: 0.5rem 0;
+    font-size: 1rem;
+  }
+
+  .navbar-content {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .navbar-left {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
 }
 
 /* updated: */
