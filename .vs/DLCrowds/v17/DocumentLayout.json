@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\disne\\source\\repos\\DLCrowds\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|c:\\users\\disne\\source\\repos\\dlcrowds\\backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|solutionrelative:backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|c:\\users\\disne\\source\\repos\\dlcrowds\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|c:\\users\\disne\\source\\repos\\dlcrowds\\backend\\services\\themeparksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|solutionrelative:backend\\services\\themeparksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|c:\\users\\disne\\source\\repos\\dlcrowds\\backend\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|solutionrelative:backend\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|c:\\users\\disne\\source\\repos\\dlcrowds\\backend\\models\\crowdsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|solutionrelative:backend\\models\\crowdsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|c:\\users\\disne\\source\\repos\\dlcrowds\\backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|solutionrelative:backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|c:\\users\\disne\\source\\repos\\dlcrowds\\backend\\controllers\\themeparkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|solutionrelative:backend\\controllers\\themeparkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|c:\\users\\disne\\source\\repos\\dlcrowds\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|c:\\users\\disne\\source\\repos\\dlcrowds\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|c:\\users\\disne\\source\\repos\\dlcrowds\\backend\\hubs\\crowdhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|solutionrelative:backend\\hubs\\crowdhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|c:\\users\\disne\\source\\repos\\dlcrowds\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5B0FF2A5-5F20-4800-8682-CC9E72FA4E4B}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,20 +34,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\Program.cs",
               "RelativeDocumentMoniker": "backend\\Program.cs",
               "ToolTip": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\Program.cs",
               "RelativeToolTip": "backend\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T01:57:31.281Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\Models\\Ride.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Ride.cs",
+              "ToolTip": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\Models\\Ride.cs",
+              "RelativeToolTip": "backend\\Models\\Ride.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:40:11.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrowdSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\Models\\CrowdSnapshot.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\CrowdSnapshot.cs",
+              "ToolTip": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\Models\\CrowdSnapshot.cs",
+              "RelativeToolTip": "backend\\Models\\CrowdSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:39:55.27Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -59,31 +82,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "backend\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\Properties\\launchSettings.json",
-              "RelativeToolTip": "backend\\Properties\\launchSettings.json",
-              "ViewState": "AgIAABwAAAAAAAAAAAAUwCIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-19T03:06:37.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ThemeParksController.cs",
               "DocumentMoniker": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\Controllers\\ThemeParksController.cs",
               "RelativeDocumentMoniker": "backend\\Controllers\\ThemeParksController.cs",
               "ToolTip": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\Controllers\\ThemeParksController.cs",
               "RelativeToolTip": "backend\\Controllers\\ThemeParksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T04:39:53.334Z"
+              "WhenOpened": "2025-03-25T04:39:53.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "backend\\Data\\ApplicationDbContext.cs",
@@ -96,39 +108,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CrowdHub.cs",
-              "DocumentMoniker": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\Hubs\\CrowdHub.cs",
-              "RelativeDocumentMoniker": "backend\\Hubs\\CrowdHub.cs",
-              "ToolTip": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\Hubs\\CrowdHub.cs",
-              "RelativeToolTip": "backend\\Hubs\\CrowdHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T03:07:11.161Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ThemeParksService.cs",
               "DocumentMoniker": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\Services\\ThemeParksService.cs",
               "RelativeDocumentMoniker": "backend\\Services\\ThemeParksService.cs",
               "ToolTip": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\Services\\ThemeParksService.cs",
               "RelativeToolTip": "backend\\Services\\ThemeParksService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T04:37:27.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\appsettings.json",
-              "RelativeDocumentMoniker": "backend\\appsettings.json",
-              "ToolTip": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\appsettings.json",
-              "RelativeToolTip": "backend\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-25T01:57:49.836Z"
+              "WhenOpened": "2025-03-25T04:37:27.788Z",
+              "EditorCaption": ""
             }
           ]
         }

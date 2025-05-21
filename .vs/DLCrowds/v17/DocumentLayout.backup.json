@@ -51,8 +51,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T01:57:31.281Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "backend\\Properties\\launchSettings.json",
               "ViewState": "AgIAABwAAAAAAAAAAAAUwCIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-19T03:06:37.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T03:06:37.73Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "backend\\Controllers\\ThemeParksController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T04:39:53.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T04:39:53.334Z"
             },
             {
               "$type": "Document",
@@ -92,7 +89,7 @@
               "RelativeDocumentMoniker": "backend\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\disne\\source\\repos\\DLCrowds\\backend\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "backend\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T01:58:21.964Z",
               "EditorCaption": ""
@@ -107,8 +104,7 @@
               "RelativeToolTip": "backend\\Hubs\\CrowdHub.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T03:07:11.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T03:07:11.161Z"
             },
             {
               "$type": "Document",
@@ -120,8 +116,7 @@
               "RelativeToolTip": "backend\\Services\\ThemeParksService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T04:37:27.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T04:37:27.788Z"
             },
             {
               "$type": "Document",

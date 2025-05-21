@@ -7,7 +7,7 @@
         public decimal CrowdScore { get; set; }
         public int WaitTime { get; set; }
         public DateTime Timestamp { get; set; }
-        public Ride Ride { get; set; }
+        public Ride? Ride { get; set; }
 
     }
 }
